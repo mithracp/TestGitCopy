@@ -1,0 +1,17 @@
+Change 1
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Fri Mar 9 15:51:47 2018 +0530
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 4 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    junk.txt
+#	new file:   junk2.txt
+#	deleted:    tt
+#	deleted:    ttt
+#
